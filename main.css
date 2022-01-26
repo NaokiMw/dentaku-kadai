@@ -1,0 +1,19 @@
+.display{
+  max-width: 135px;
+  width:135px;
+  height: 20px;
+  background-color: black;
+  color: white;
+  text-align: right
+}
+.button{
+  background-color: #DDDDDD;
+  border-radius: 5px;
+  width: 30px;
+  
+}
+.button_last{
+  width:65px;
+  background-color: #DDDDDD;
+  border-radius: 5px;
+}
